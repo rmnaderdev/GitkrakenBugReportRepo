@@ -1,0 +1,3 @@
+[submodule "Uptime-Endpoint"]
+	path = Uptime-Endpoint
+	url = https://github.com/rmnaderdev/Uptime-Endpoint.git
